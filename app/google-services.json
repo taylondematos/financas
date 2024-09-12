@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679756396447",
+    "project_id": "financas-428e3",
+    "storage_bucket": "financas-428e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679756396447:android:8f691489f6ff0f208dafaa",
+        "android_client_info": {
+          "package_name": "com.catshouse.finance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqY2AkZfiiisEtWQMeCXfpzMWacXTe6Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

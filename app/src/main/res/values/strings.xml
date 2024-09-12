@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Finance Tracker</string>
+    <string name="texto_intro1">Track your spending</string>
+    <string name="texto_intro2">Know where your money is going</string>
+    <string name="texto_intro3">Take control of your life</string>
+    <string name="texto_intro4">Easy to use</string>
+    <string name="texto_cadastro">Join now!</string>
+    <string name="texto_activitycadastro">Sign up</string>
+    <string name="texto_nometelacadastro">Name</string>
+    <string name="texto_emailtelacadastro">E-mail</string>
+    <string name="texto_passwordtelacadastro">Password</string>
+    <string name="texto_login">Login</string>
+    <string name="title_activity_tela_principal">TelaPrincipalActivity</string>
+    <string name="texto_fab_positivo">Revenue</string>
+    <string name="texto_fab_negativo">Expense</string>
+    <string name="texto_campo_categoria">Category</string>
+    <string name="texto_campo_descricao">Description</string>
+    <string name="texto_prencha_todos_os_cwmpos">Fill in all fields</string>
+    <string name="senha_mais_forte">Use a stronger password</string>
+    <string name="email_real">Use a real e-mail address</string>
+    <string name="conta_ja_cadastrada">This account already exists</string>
+    <string name="erro_ao_cadastrar_usuario">Something went wrong</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
